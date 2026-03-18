@@ -26,6 +26,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [OpenZeppelin/openzeppelin-skills](https://github.com/OpenZeppelin/openzeppelin-skills) | Secure Development Skills | Multi-Lang |
 | [Monethic/monethic-maia](https://github.com/Monethic/monethic-maia) | AI Auditor | Multi-Lang |
 | [slvDev/weasel](https://github.com/slvDev/weasel) | Solidity static analyzer you can talk to | Multi-Lang |
+| [PlamenTSV/plamen](https://github.com/PlamenTSV/plamen) | Autonomous Web3 security audit agent | Multi-Lang |
 | [hackenproof-public/skills](https://github.com/hackenproof-public/skills) | Triage Skills | Other |
 | [marchev/claudit](https://github.com/marchev/claudit) | Security Findings Skill | Other |
 | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI assisted bounty hunting | Other |
